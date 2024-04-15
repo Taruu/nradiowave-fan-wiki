@@ -1,2 +1,2 @@
-# nradiowave-fan-wiki
+	# nradiowave-fan-wiki
 nradiowave.ru fan wiki

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "756a9dbb9f3b07ba",
+        "id": "98c1cf11b6e6e706",
         "type": "tabs",
         "children": [
           {
-            "id": "40e5aec8f6f6b6d3",
+            "id": "53bdd5317cfcbd08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test/test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test/test.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "test/test.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test/test.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,11 +146,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "1cc71fd477c1a0f6",
+  "active": "53bdd5317cfcbd08",
   "lastOpenFiles": [
+    "README.md",
+    "test/test.md",
     "images/senkofox.jpg",
     "images",
-    "test/test.md",
     "test"
   ]
 }
