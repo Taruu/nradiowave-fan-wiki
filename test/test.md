@@ -1,1 +1,3 @@
-test fox![[senkofox.jpg]]
+test fox
+
+![[../images/senkofox.jpg]]
